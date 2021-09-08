@@ -1,0 +1,5 @@
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\VideoStorageIndexer\VideoStorageIndexer\obj\Debug\VideoStorageIndexer.csprojResolveAssemblyReference.cache
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\VideoStorageIndexer\VideoStorageIndexer\bin\Debug\VideoStorageIndexer.dll
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\VideoStorageIndexer\VideoStorageIndexer\bin\Debug\VideoStorageIndexer.pdb
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\VideoStorageIndexer\VideoStorageIndexer\obj\Debug\VideoStorageIndexer.dll
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\VideoStorageIndexer\VideoStorageIndexer\obj\Debug\VideoStorageIndexer.pdb
